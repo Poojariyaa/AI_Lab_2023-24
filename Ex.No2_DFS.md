@@ -33,6 +33,7 @@ print("Following is the Depth-First Search")
 dfs(visited, graph, '5')
 ```
 ### Output:
-![WhatsApp Image 2024-02-23 at 18 50 55_539b5ffe](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/9ce59c6b-2ccf-4229-818b-b55943c4b322)
+![Screenshot (81)](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/be1c7dcf-42f3-44f9-912a-9b726baa6f21)
+
 ### Result:
 Thus the depth first search order was found sucessfully.
