@@ -41,6 +41,6 @@ print("Breadth-First Search order is:")
 bfs(visited, graph, '5')    # function calling
 ```
 ### Output:
-![WhatsApp Image 2024-02-12 at 16 20 59_8c782df8](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/7fd8f2ae-a646-41cd-af27-173526cca8a8)
+![image](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/cacd9fc1-d61e-4b0e-a295-6030f3aa0d5f)
 ### Result:
 Thus the breadth first search order was found sucessfully.
