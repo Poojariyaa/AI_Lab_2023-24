@@ -44,7 +44,8 @@ fulladder(A,B,Cin,S,Cout):-
     or(Y,Z,Cout).
 ```
 ### Output:
-![WhatsApp Image 2024-04-01 at 15 38 07_8829e1da](https://github.com/mehanthyka/AI_Lab_2023-24/assets/127507580/05528514-759a-4830-8a31-58dd24c7369f)
+![image](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/387f7b5b-2e33-478a-96ba-7c216c75b045)
+
 ![WhatsApp Image 2024-04-01 at 15 40 48_c272919a](https://github.com/mehanthyka/AI_Lab_2023-24/assets/127507580/71f61364-e4ff-4b3a-b02d-02472cca661d)
 ![WhatsApp Image 2024-04-01 at 15 40 52_2bddf4b2](https://github.com/mehanthyka/AI_Lab_2023-24/assets/127507580/0b7e7001-4dfe-4755-8fa7-9e6b8d501ecc)
 
