@@ -30,7 +30,7 @@ move(N,X,Y,Z) :-
 ```
 
 ### Output:
-![WhatsApp Image 2024-04-01 at 15 10 09_3612ab59](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/127511817/b6500e75-bcd3-475e-b55e-52e70b2a7251)
+![image](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/2b8638bb-e00c-464d-9930-3ab407cb3a5a)
 
 ### Result:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
