@@ -46,8 +46,8 @@ fulladder(A,B,Cin,S,Cout):-
 ### Output:
 ![image](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/387f7b5b-2e33-478a-96ba-7c216c75b045)
 ![image](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/9c384916-9b8c-430a-81ae-575cee4e35ee)
+![image](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/a99f9a1e-066b-4666-824c-92d94e4349df)
 
-![WhatsApp Image 2024-04-01 at 15 40 52_2bddf4b2](https://github.com/mehanthyka/AI_Lab_2023-24/assets/127507580/0b7e7001-4dfe-4755-8fa7-9e6b8d501ecc)
 
 ### Result:
 Thus the truth table of circuit verified sucessfully.
