@@ -1,17 +1,14 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE: 7-5-24                                                                        
 ### REGISTER NUMBER : 212221040122
-
 ### AIM: 
 To write a program to train the classifier for Student performance prediction.
 ###  Algorithm:
-```
-1.Collect student data including demographics and academic history.
-2.Preprocess data by handling missing values and encoding categorical variables.
-3.Select and train a predictive model using features like previous grades and socio-economic status.
-4.Evaluate the model's performance using test data.
-5.Deploy the model for predicting student performance and periodically update it with new data.
-```
+  1.Collect student data including demographics and academic history.
+  2.Preprocess data by handling missing values and encoding categorical variables.
+  3.Select and train a predictive model using features like previous grades and socio-economic status.
+  4.Evaluate the model's performance using test data.
+  5.Deploy the model for predicting student performance and periodically update it with new data.
 ### Program:
 ```
 import pandas as pd
@@ -317,10 +314,7 @@ else:
     print("Exiting..")
     t.sleep(1)
 ```
-
 ### Output:
-
 C:\Users\pooja\OneDrive\Pictures\Screenshots\Screenshot (91).png
-
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
