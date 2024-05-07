@@ -4,11 +4,13 @@
 ### AIM: 
 To write a program to train the classifier for Student performance prediction.
 ###  Algorithm:
-    1.Collect student data including demographics and academic history.
-    2.Preprocess data by handling missing values and encoding categorical variables.
-    3.Select and train a predictive model using features like previous grades and socio-economic status.
-    4.Evaluate the model's performance using test data.
-    5.Deploy the model for predicting student performance and periodically update it with new data.
+```
+ 1.Collect student data including demographics and academic history.
+ 2.Preprocess data by handling missing values and encoding categorical variables.
+ 3.Select and train a predictive model using features like previous grades and socio-economic status.
+ 4.Evaluate the model's performance using test data.
+ 5.Deploy the model for predicting student performance and periodically update it with new data.
+```
 ### Program:
 ```
 import pandas as pd
@@ -315,6 +317,8 @@ else:
     t.sleep(1)
 ```
 ### Output:
+![Screenshot (89)](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/f1972026-0f8d-4fcd-ba29-08f98e19aaae)
+
 ![WhatsApp Image 2024-05-07 at 21 19 15_ce726bbd](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/50a3e538-20e2-40c8-b63a-aeec6beb15ad)
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
