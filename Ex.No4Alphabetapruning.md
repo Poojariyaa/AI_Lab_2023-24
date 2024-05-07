@@ -13,7 +13,6 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 7.  Specify the score value of leaf nodes and Call the minimax function.
 8.  Print the best value of Max player.
 9.  Stop the program. 
-
 ### Program:
 ```
 # Initial values of Alpha and Beta
@@ -56,6 +55,5 @@ print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 ```
 ### Output:
 ![Screenshot (85)](https://github.com/Poojariyaa/AI_Lab_2023-24/assets/127511817/bc07d480-8098-44fb-82e3-debb5139536c)
-
 ### Result:
 Thus the best score of max player was found using Alpha Beta Pruning.
